@@ -24,7 +24,7 @@ Ensure g++ and make are installed. Our experimental platform is equipped with Ub
 $cd LC
 $make clean
 $make
-$./main。out
+$./main.out
 ```
 Then input parameter according to the guideline. You will get the result of cSkt(LC), SG-cSkt(LC), bSkt(LL), SG-bSkt(LL), rSkt(HLL), SG-rSkt(HLL). 
 
