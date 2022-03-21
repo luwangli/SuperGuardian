@@ -19,9 +19,9 @@ Ensure g++ and make are installed. Our experimental platform is equipped with Ub
 
 ## Compile and Run
 
-### impact of SuperGuardian on LL estimator
+### impact of SuperGuardian on LC estimator
 ```
-$cd LL
+$cd LC
 $make clean
 $make
 $./main。out
